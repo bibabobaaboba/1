@@ -28,8 +28,6 @@
 &kp LCTRL         &kp Z  &kp X  &kp C      &kp V      &kp B    &kp N  &kp M          &kp COMMA  &kp DOT  &kp FSLH  &kp APOS
                                 &kp LCTRL  &kp SPACE  &mo 1    &mo 2  &kp BACKSPACE
             >;
-
-            trackball-bindings = <&tmv_coarse>;
         };
 
         layer_1 {
