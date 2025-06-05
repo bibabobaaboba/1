@@ -8,6 +8,8 @@ features:
   - keys
   - pointer
   - underglow
+  - Mouse keys pointer
+  - Trackball pointer
 siblings:
   - charybdis_left
   - charybdis_right
